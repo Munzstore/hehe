@@ -1,0 +1,97 @@
+
+nav {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 10px 0; /* Vertical padding and no horizontal padding */
+    text-align: center; /* Center align all text within nav */
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* Add subtle shadow for depth */
+}
+
+nav ul {
+    list-style-type: none; /* Remove default list styling */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+}
+
+nav ul li {
+    display: inline; /* Display list items inline */
+    margin-right: 20px; /* Space between menu items */
+}
+
+nav ul li a {
+    text-decoration: none; /* Remove underline from links */
+    color: #007bff; /* Bootstrap primary blue */
+    font-size: 16px; /* Set font size */
+    font-weight: bold; /* Make font bold */
+}
+
+nav ul li a:hover {
+    color: #0056b3; /* Darken the blue on hover */
+}
+
+
+body {
+    background: linear-gradient(to right, #8db5f0, #a668f2); /* Gradient background from light grey to a slightly darker grey */
+    font-family: Arial, sans-serif; /* Set a clean and modern font */
+}
+
+section {
+    background-color: #ffffff; /* White background for sections */
+    padding: 20px; /* Padding around content in section */
+    margin: 20px; /* Margin around sections */
+    border-radius: 8px; /* Rounded corners for sections */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.15); /* Subtle shadow for depth */
+}
+
+h1 {
+    color: #333; /* Dark grey color for headings */
+    margin-bottom: 10px; /* Space below the heading */
+}
+
+p {
+    color: #666; /* Medium grey color for paragraph text */
+    line-height: 1.6; /* Spacing between lines */
+}
+
+
+body, p, h1, nav ul li a {
+    font-family: 'Helvetica Neue', Arial, sans-serif; /* Menggunakan font yang lebih elegan */
+    text-rendering: optimizeLegibility; /* Meningkatkan legibilitas teks */
+}
+
+h1 {
+    font-size: 28px; /* Ukuran font yang lebih besar untuk heading */
+    font-weight: 300; /* Font lebih ringan untuk tampilan yang lebih modern dan elegan */
+    color: #444; /* Warna yang lebih gelap untuk kontras yang lebih baik */
+}
+
+p {
+    font-size: 18px; /* Ukuran font yang lebih besar untuk paragraf */
+    color: #555; /* Warna yang lebih lembut untuk teks */
+    margin-bottom: 20px; /* Memberikan lebih banyak ruang di bawah paragraf */
+}
+
+nav ul li a {
+    font-size: 18px; /* Ukuran font yang lebih besar untuk link navigasi */
+    font-weight: 500; /* Font sedikit lebih tebal */
+}
+
+nav ul li a:hover {
+    color: #003366; /* Warna hover yang lebih dalam */
+}
+#message {
+    font-size: 32px; /* Meningkatkan ukuran font */
+    font-weight: bold; /* Membuat teks lebih tebal */
+    color: #90EE90; /* Mengubah warna teks menjadi hijau muda */
+    text-shadow: 2px 2px 4px #574848; /* Menambahkan bayangan untuk teks */
+}
+
+
+
+
+
+
+
+
+
+
+
